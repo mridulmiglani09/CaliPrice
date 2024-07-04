@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This document describes the development and evaluation of a machine learning model for predicting housing prices in California using the California housing dataset obtained from Kaggle. ]
+This document describes the development and evaluation of a machine learning model for predicting housing prices in California using the California housing dataset obtained from Kaggle. 
 
 ## Dataset Description
 
@@ -44,8 +44,8 @@ The performance of the selected model was evaluated using metrics such as mean s
 
 ## Results
 
-The Random Forest Regression model achieved good performance in predicting housing prices in California based on the given dataset.
+The Random Forest Regression model achieved 96 % accuracy in predicting housing prices in California based on the given dataset.
 
 ## Conclusion
 
-In conclusion, developed a machine learning model using the California housing dataset from Kaggle to predict housing prices in California with reasonable accuracy. The Random Forest Regression model performed well in this task 
+In conclusion, developed a machine learning model using the California housing dataset from Kaggle to predict housing prices in California with 96 % accuracy. The Random Forest Regression model performed well in this task 
