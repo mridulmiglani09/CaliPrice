@@ -1,4 +1,4 @@
-# Housing Price Prediction Model using California Dataset
+# CaliPrice
 
 ## Introduction
 
